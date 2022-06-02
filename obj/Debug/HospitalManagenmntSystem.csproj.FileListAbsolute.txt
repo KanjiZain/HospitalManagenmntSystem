@@ -1,0 +1,13 @@
+/Users/hasnainkanji/Desktop/Zain/C1/HospitalManagenmntSystem/HospitalManagenmntSystem/bin/Debug/HospitalManagenmntSystem.exe
+/Users/hasnainkanji/Desktop/Zain/C1/HospitalManagenmntSystem/HospitalManagenmntSystem/bin/Debug/HospitalManagenmntSystem.pdb
+/Users/hasnainkanji/Desktop/Zain/C1/HospitalManagenmntSystem/HospitalManagenmntSystem/obj/Debug/HospitalManagenmntSystem.csprojAssemblyReference.cache
+/Users/hasnainkanji/Desktop/Zain/C1/HospitalManagenmntSystem/HospitalManagenmntSystem/obj/Debug/HospitalManagenmntSystem.csproj.CoreCompileInputs.cache
+/Users/hasnainkanji/Desktop/Zain/C1/HospitalManagenmntSystem/HospitalManagenmntSystem/obj/Debug/HospitalManagenmntSystem.exe
+/Users/hasnainkanji/Desktop/Zain/C1/HospitalManagenmntSystem/HospitalManagenmntSystem/obj/Debug/HospitalManagenmntSystem.pdb
+C:\Users\Zain Kanji\Desktop\MyPlayGround\HospitalManagenmntSystem\HospitalManagenmntSystem\bin\Debug\HospitalManagenmntSystem.exe
+C:\Users\Zain Kanji\Desktop\MyPlayGround\HospitalManagenmntSystem\HospitalManagenmntSystem\bin\Debug\HospitalManagenmntSystem.pdb
+C:\Users\Zain Kanji\Desktop\MyPlayGround\HospitalManagenmntSystem\HospitalManagenmntSystem\obj\Debug\HospitalManagenmntSystem.csproj.AssemblyReference.cache
+C:\Users\Zain Kanji\Desktop\MyPlayGround\HospitalManagenmntSystem\HospitalManagenmntSystem\obj\Debug\HospitalManagenmntSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zain Kanji\Desktop\MyPlayGround\HospitalManagenmntSystem\HospitalManagenmntSystem\obj\Debug\HospitalManagenmntSystem.csproj.CoreCompileInputs.cache
+C:\Users\Zain Kanji\Desktop\MyPlayGround\HospitalManagenmntSystem\HospitalManagenmntSystem\obj\Debug\HospitalManagenmntSystem.exe
+C:\Users\Zain Kanji\Desktop\MyPlayGround\HospitalManagenmntSystem\HospitalManagenmntSystem\obj\Debug\HospitalManagenmntSystem.pdb

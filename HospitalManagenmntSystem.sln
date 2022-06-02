@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalManagenmntSystem", "HospitalManagenmntSystem\HospitalManagenmntSystem.csproj", "{38A950F7-5DF9-4CB6-9913-84029583CDF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Debug|x64 = Debug|x64
+		Release|anycpu = Release|anycpu
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38A950F7-5DF9-4CB6-9913-84029583CDF2}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{38A950F7-5DF9-4CB6-9913-84029583CDF2}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{38A950F7-5DF9-4CB6-9913-84029583CDF2}.Debug|x64.ActiveCfg = Debug|x64
+		{38A950F7-5DF9-4CB6-9913-84029583CDF2}.Debug|x64.Build.0 = Debug|x64
+		{38A950F7-5DF9-4CB6-9913-84029583CDF2}.Release|anycpu.ActiveCfg = Release|anycpu
+		{38A950F7-5DF9-4CB6-9913-84029583CDF2}.Release|anycpu.Build.0 = Release|anycpu
+		{38A950F7-5DF9-4CB6-9913-84029583CDF2}.Release|x64.ActiveCfg = Release|x64
+		{38A950F7-5DF9-4CB6-9913-84029583CDF2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27F4F351-8B65-416C-90A2-E291F7D10D76}
+	EndGlobalSection
+EndGlobal

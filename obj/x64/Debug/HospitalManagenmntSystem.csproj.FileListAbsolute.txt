@@ -1,0 +1,6 @@
+C:\Users\Zain Kanji\Desktop\MyPlayGround\HospitalManagenmntSystem\HospitalManagenmntSystem\bin\x64\Debug\HospitalManagenmntSystem.exe
+C:\Users\Zain Kanji\Desktop\MyPlayGround\HospitalManagenmntSystem\HospitalManagenmntSystem\bin\x64\Debug\HospitalManagenmntSystem.pdb
+C:\Users\Zain Kanji\Desktop\MyPlayGround\HospitalManagenmntSystem\HospitalManagenmntSystem\obj\x64\Debug\HospitalManagenmntSystem.csprojAssemblyReference.cache
+C:\Users\Zain Kanji\Desktop\MyPlayGround\HospitalManagenmntSystem\HospitalManagenmntSystem\obj\x64\Debug\HospitalManagenmntSystem.csproj.CoreCompileInputs.cache
+C:\Users\Zain Kanji\Desktop\MyPlayGround\HospitalManagenmntSystem\HospitalManagenmntSystem\obj\x64\Debug\HospitalManagenmntSystem.exe
+C:\Users\Zain Kanji\Desktop\MyPlayGround\HospitalManagenmntSystem\HospitalManagenmntSystem\obj\x64\Debug\HospitalManagenmntSystem.pdb

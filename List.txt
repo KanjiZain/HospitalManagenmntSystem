@@ -1,0 +1,25 @@
+
+
+
+                        *******LIST OF MEDICENS******* 
+
+
+Brand                   Price             Available in Stock        Quantity
+
+Panadol                 20/-                  Yes                     100
+
+Brufen                  65/-                  Yes                     65
+ 
+Nospa forte             43/-                   No                     -
+ 
+Arethomysine            120/-                 yes                     34
+
+Panadol Extra           17/-                  yes                     321
+
+Cal-c                   220/-                 yes                     10
+
+Cal-d                   340/-                 yes                     17
+
+Claricid                530(10 Tablets)       yes                     12
+
+Cebosh-DS               630(12 Tablets)       yes                     33
